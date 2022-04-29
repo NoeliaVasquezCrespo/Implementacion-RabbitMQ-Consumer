@@ -65,7 +65,7 @@ public class SubjectDto {
 
     @Override
     public String toString() {
-        return "{" +
+        return "Subject{" +
             ", name='" + getName() + "'" +
             ", semester='" + getSemester() + "'" +
             ", credits='" + getCredits() + "'" +

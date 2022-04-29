@@ -51,7 +51,7 @@ public class StudentDto {
 
     @Override
     public String toString() {
-        return "StudentDto{" +
+        return "Student{" +
                 ", name='" + name + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", email='" + email + '\'' +

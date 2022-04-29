@@ -53,7 +53,7 @@ public class TeacherDto {
 
     @Override
     public String toString() {
-        return "{" +
+        return "Teacher{" +
             ", name='" + getName() + "'" +
             ", email='" + getEmail() + "'" +
             ", phone='" + getPhone() + "'" +
